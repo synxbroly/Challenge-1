@@ -1,2 +1,2 @@
-# Challenge-1
-This is a small challenge I did which was included in WEB DEVELOPMENT bootcamp by DR. Angela yu .In this challenge you have to create a flag using CSS without changing HTML code .By using everything i have learned till now I completed it .Have a look at my code.Thank you.
+HELLO EVERYONE!
+I started a Web Development Bootcamp by Dr. Angela yu and I will be sharing all my progress and my code here .I am learning a lot of things and Dr Angela Yu is an amazing teacher.
