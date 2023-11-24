@@ -6,7 +6,7 @@ var lower = name.slice(1,length);
 alert("Hello , Mr. " + uper.slice(0,1)+lower);
 
 
-
+-
 //guest list check javascript code
 var name = prompt("what is your name?");
 
